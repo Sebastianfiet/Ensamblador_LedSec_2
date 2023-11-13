@@ -1,0 +1,6 @@
+Message[302] C:\USERS\SEBASTIAN\MPLABXPROJECTS\LEDS2.X\LEDS2MAIN.ASM 28 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SEBASTIAN\MPLABXPROJECTS\LEDS2.X\LEDS2MAIN.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SEBASTIAN\MPLABXPROJECTS\LEDS2.X\LEDS2MAIN.ASM 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SEBASTIAN\MPLABXPROJECTS\LEDS2.X\LEDS2MAIN.ASM 41 : Using default destination of 1 (file).
+Message[305] C:\USERS\SEBASTIAN\MPLABXPROJECTS\LEDS2.X\LEDS2MAIN.ASM 54 : Using default destination of 1 (file).
+Warning[205] C:\USERS\SEBASTIAN\MPLABXPROJECTS\LEDS2.X\LEDS2MAIN.ASM 75 : Found directive in column 1. (END)
